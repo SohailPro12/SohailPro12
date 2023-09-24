@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/Y1vohJMVMtjSQxmUot/giphy.gif)](https://sohail12pro.io)
+[![MasterHead](https://pbs.twimg.com/profile_banners/1661620923412127747/1693829827/1500x500)](https://sohail12pro.io)
 
 <h1 align="center">Hi 👋, I'm Sohail Charef</h1>
 <h3 align="center">Future Software Engineer</h3>
