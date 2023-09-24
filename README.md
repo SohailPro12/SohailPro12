@@ -1,4 +1,4 @@
-[![MasterHead](Programming Coding GIF by CODEIT - Find & Share on GIPHY)](https://sohail12pro.io)
+[![MasterHead](Programming Coding GIF by CODEIT - Find & Share on GIPHY)]
 
 <h1 align="center">Hi 👋, I'm Sohail Charef</h1>
 <h3 align="center">Future Software Engineer</h3>
@@ -29,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohailpro12&show_icons=true&locale=en" alt="sohailpro12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohailpro12&" alt="sohailpro12" /></p>
-![image](https://github.com/SohailPro12/SohailPro12/assets/131702341/69e86b84-1d4c-4ebe-a286-4b10900c42eb)
