@@ -1,4 +1,5 @@
-[![MasterHead]([https://pbs.twimg.com/profile_banners/1661620923412127747/1693829827/1500x500)](https://youtu.be/dQw4w9WgXcQ?si=60QfFGlQ1xA3ykRs](https://th.bing.com/th/id/R.d010063260dbd07d7bedff342029a962?rik=HzGu1Zn2pGh1lQ&pid=ImgRaw&r=0))
+[![MasterHead](https://th.bing.com/th/id/R.d010063260dbd07d7bedff342029a962?rik=HzGu1Zn2pGh1lQ&pid=ImgRaw&r=0)](https://youtu.be/dQw4w9WgXcQ?si=60QfFGlQ1xA3ykRs)
+
 
 <h1 align="center">Hi 👋, I'm Sohail Charef</h1>
 <h3 align="center">Future Software Engineer</h3>
