@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/chsohy" target="blank"><img src="https://img.shields.io/twitter/follow/chsohy?logo=twitter&style=for-the-badge" alt="chsohy" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SohailPro12?tab=repositories](https://github.com/SohailPro12?tab=repositories)
 
